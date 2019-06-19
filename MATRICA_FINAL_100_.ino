@@ -22,9 +22,8 @@ Ticker display_ticker;
 //#define P_E 0
 
 
-//PxMATRIX display(64,32,P_LAT, P_OE,P_A,P_B,P_C,P_D);
-PxMATRIX display(64,64,P_LAT, P_OE,P_A,P_B,P_C,P_D);
-
+PxMATRIX display(64,32,P_LAT, P_OE,P_A,P_B,P_C,P_D);
+//PxMATRIX display(64,64,P_LAT, P_OE,P_A,P_B,P_C,P_D,P_E);
 //PxMATRIX display(64, 32, P_LAT, P_OE, P_A, P_B, P_C, P_D, P_E);
 
 //------- Replace the following! ------
